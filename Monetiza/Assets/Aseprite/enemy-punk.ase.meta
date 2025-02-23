@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: f55836fab53c5e5419811258ddea372c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: enemy-punk_Frame_0
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 28
+      height: 50
+    spriteID: f1bdb52e8620b584bac0be10361f517f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: enemy-punk_Frame_1
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 114
+      width: 28
+      height: 49
+    spriteID: dd0f67b78ff126d43a3d745aa560b32e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 114}
+  - name: enemy-punk_Frame_2
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 114
+      width: 28
+      height: 48
+    spriteID: 1c5f9baf246d4494d9288e5d005631e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 114}
+  - name: enemy-punk_Frame_3
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 114
+      width: 28
+      height: 49
+    spriteID: 44512a91b31b48740bac36625f7e1143
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 114}
+  - name: enemy-punk_Frame_4
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 114
+      width: 28
+      height: 50
+    spriteID: b016fdcc3bd92374b946a8a4e1eb7231
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 114}
+  - name: enemy-punk_Frame_5
+    originalName: 
+    pivot: {x: 0.7083334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 172
+      width: 24
+      height: 51
+    spriteID: 8dff3beeb31a17a4ca40700a7baa89be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 172}
+  - name: enemy-punk_Frame_6
+    originalName: 
+    pivot: {x: 0.7083334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 24
+      height: 52
+    spriteID: 9a201453b18911f46bcaf0b17375aa94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 172}
+  - name: enemy-punk_Frame_7
+    originalName: 
+    pivot: {x: 0.7083334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 172
+      width: 24
+      height: 52
+    spriteID: 2cd9cc3b78c0f2044a316224b006b506
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 172}
+  - name: enemy-punk_Frame_8
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 114
+      width: 28
+      height: 50
+    spriteID: 1d01ceeb3a328e04683e09a315b7f8df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 114}
+  - name: enemy-punk_Frame_9
+    originalName: 
+    pivot: {x: 0.50000006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 57
+      width: 28
+      height: 48
+    spriteID: 211e483174243594b9bb1936c27ef5f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 57}
+  - name: enemy-punk_Frame_10
+    originalName: 
+    pivot: {x: 0.75510204, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 49
+      height: 45
+    spriteID: 43a5283c604b3774db2b08bf77e5c58b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: enemy-punk_Frame_11
+    originalName: 
+    pivot: {x: 0.6071429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 114
+      width: 28
+      height: 50
+    spriteID: a3f894eca2274a64a95d10eefbcef26a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 114}
+  - name: enemy-punk_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 57
+      width: 32
+      height: 49
+    spriteID: 547e913115c35944ca2023e36469fe74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 57}
+  - name: enemy-punk_Frame_13
+    originalName: 
+    pivot: {x: 0.51020414, y: -0.025000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 4
+      width: 49
+      height: 40
+    spriteID: 217f49c8c0548b44cb41121a3e7c0861
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 4}
+  - name: enemy-punk_Frame_14
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.058823533}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 4
+      width: 62
+      height: 17
+    spriteID: 5642db1ebbba5734a92dee7e5886e707
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1307015761
+    name: enemy-punk
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: enemy-punk_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 50
+      spriteId: f1bdb52e8620b584bac0be10361f517f
+    - name: enemy-punk_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 49
+      spriteId: dd0f67b78ff126d43a3d745aa560b32e
+    - name: enemy-punk_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 48
+      spriteId: 1c5f9baf246d4494d9288e5d005631e6
+    - name: enemy-punk_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 49
+      spriteId: 44512a91b31b48740bac36625f7e1143
+    - name: enemy-punk_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 50
+      spriteId: b016fdcc3bd92374b946a8a4e1eb7231
+    - name: enemy-punk_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 31
+        y: 0
+        width: 24
+        height: 51
+      spriteId: 8dff3beeb31a17a4ca40700a7baa89be
+    - name: enemy-punk_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 31
+        y: 0
+        width: 24
+        height: 52
+      spriteId: 9a201453b18911f46bcaf0b17375aa94
+    - name: enemy-punk_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 31
+        y: 0
+        width: 24
+        height: 52
+      spriteId: 2cd9cc3b78c0f2044a316224b006b506
+    - name: enemy-punk_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 50
+      spriteId: 1d01ceeb3a328e04683e09a315b7f8df
+    - name: enemy-punk_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 34
+        y: 0
+        width: 28
+        height: 48
+      spriteId: 211e483174243594b9bb1936c27ef5f3
+    - name: enemy-punk_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 11
+        y: 0
+        width: 49
+        height: 45
+      spriteId: 43a5283c604b3774db2b08bf77e5c58b
+    - name: enemy-punk_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 31
+        y: 0
+        width: 28
+        height: 50
+      spriteId: a3f894eca2274a64a95d10eefbcef26a
+    - name: enemy-punk_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 49
+      spriteId: 547e913115c35944ca2023e36469fe74
+    - name: enemy-punk_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 23
+        y: 1
+        width: 49
+        height: 40
+      spriteId: 217f49c8c0548b44cb41121a3e7c0861
+    - name: enemy-punk_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 12
+        y: -1
+        width: 62
+        height: 17
+      spriteId: 5642db1ebbba5734a92dee7e5886e707
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 63}
