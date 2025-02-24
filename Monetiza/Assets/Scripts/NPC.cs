@@ -113,11 +113,17 @@ public class NPC : MonoBehaviour
 
     void Attack()
     {
-        // Aqui você pode colocar a lógica de dano ao jogador
         Debug.Log("Inimigo ataca o jogador!");
-        if (attackCooldown > 0)
+
+        // Obtem o componente VidaPlayer do objeto do jogador
+        VidaPlayer vp = player.GetComponent<VidaPlayer>();
+        if (vp != null)
         {
-            vidaPlayer.GetComponent<VidaPlayer>().TakeDamage(danoEnemy);
+            vp.TakeDamage(danoEnemy);
+        }
+        else
+        {
+            Debug.LogWarning("O jogador não possui o componente VidaPlayer.");
         }
     }
 

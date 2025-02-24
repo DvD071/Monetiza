@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class VidaPlayer : MonoBehaviour
@@ -13,6 +15,7 @@ public class VidaPlayer : MonoBehaviour
     [Header("Interface de Vida")]
     [Tooltip("Slider que representa a vida do Player.")]
     public Slider healthSlider;
+    public GameObject gameOver;
    
 
     void Start()
@@ -23,7 +26,7 @@ public class VidaPlayer : MonoBehaviour
             healthSlider.maxValue = maxHealth;
             healthSlider.value = currentHealth;
         }
-        
+        gameOver.SetActive(false);
     }
 
     // Método para aplicar dano ao Player
@@ -36,7 +39,6 @@ public class VidaPlayer : MonoBehaviour
         {
             healthSlider.value = currentHealth;
         }
-
         if (currentHealth <= 0)
         {
             Die();
@@ -59,9 +61,18 @@ public class VidaPlayer : MonoBehaviour
 
     // Método chamado quando a vida do Player chega a zero
     void Die()
-    {
+    { 
+        gameOver.SetActive(true);
         Debug.Log("Player morreu!");
+        Time.timeScale = 0f;
+
         // Adicione aqui a lógica de Game Over ou reinicialização da cena
+         
+    }
+    public void Derrota()
+    {
+        SceneManager.LoadScene("Jogo");
+        Time.timeScale = 1f;
     }
 
 }
