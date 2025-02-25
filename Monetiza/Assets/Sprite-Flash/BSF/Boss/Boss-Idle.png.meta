@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: de2682ea69da43a43aad0e4f2bd2d023
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3081140744875720371
+    second: Boss-Idle_0
+  - first:
+      213: -4305016069982473432
+    second: Boss-Idle_1
+  - first:
+      213: -4579623771877242826
+    second: Boss-Idle_2
+  - first:
+      213: 8754140421706184551
+    second: Boss-Idle_3
+  - first:
+      213: -3892591642495321686
+    second: Boss-Idle_4
+  - first:
+      213: 1905864929515483176
+    second: Boss-Idle_5
+  - first:
+      213: -8042344283210599407
+    second: Boss-Idle_6
+  - first:
+      213: -6122691678721675397
+    second: Boss-Idle_7
+  - first:
+      213: 4292833947421119928
+    second: Boss-Idle_8
+  - first:
+      213: -1209247564999153953
+    second: Boss-Idle_9
+  - first:
+      213: -754230139007683158
+    second: Boss-Idle_10
+  - first:
+      213: 4000655255727029430
+    second: Boss-Idle_11
+  - first:
+      213: 6864372150812472646
+    second: Boss-Idle_12
+  - first:
+      213: 3350257947792464617
+    second: Boss-Idle_13
+  - first:
+      213: -5144600703270143511
+    second: Boss-Idle_14
+  - first:
+      213: -2682061449040249121
+    second: Boss-Idle_15
+  - first:
+      213: -3210711886691843574
+    second: Boss-Idle_16
+  - first:
+      213: -5496506132485848975
+    second: Boss-Idle_17
+  - first:
+      213: 3589517090815933733
+    second: Boss-Idle_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10004
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10005
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10006
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 5716
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4619
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10008
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 4619
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10009
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 4619
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10010
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 4619
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10011
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 4619
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10015
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10016
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10017
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10018
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10019
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10020
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10021
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10022
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10023
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10024
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10025
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10026
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 3522
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10027
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2425
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10028
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2425
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10029
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 2425
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10030
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 2425
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10031
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1328
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10032
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1328
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Idle-Box instance 10033
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1328
+        width: 1707
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boss-Idle-Box instance 10000: 0
+      Boss-Idle-Box instance 10001: 0
+      Boss-Idle-Box instance 10002: 0
+      Boss-Idle-Box instance 10003: 0
+      Boss-Idle-Box instance 10004: 0
+      Boss-Idle-Box instance 10005: 0
+      Boss-Idle-Box instance 10006: 0
+      Boss-Idle-Box instance 10007: 0
+      Boss-Idle-Box instance 10008: 0
+      Boss-Idle-Box instance 10009: 0
+      Boss-Idle-Box instance 10010: 0
+      Boss-Idle-Box instance 10011: 0
+      Boss-Idle-Box instance 10012: 0
+      Boss-Idle-Box instance 10013: 0
+      Boss-Idle-Box instance 10014: 0
+      Boss-Idle-Box instance 10015: 0
+      Boss-Idle-Box instance 10016: 0
+      Boss-Idle-Box instance 10017: 0
+      Boss-Idle-Box instance 10018: 0
+      Boss-Idle-Box instance 10019: 0
+      Boss-Idle-Box instance 10020: 0
+      Boss-Idle-Box instance 10021: 0
+      Boss-Idle-Box instance 10022: 0
+      Boss-Idle-Box instance 10023: 0
+      Boss-Idle-Box instance 10024: 0
+      Boss-Idle-Box instance 10025: 0
+      Boss-Idle-Box instance 10026: 0
+      Boss-Idle-Box instance 10027: 0
+      Boss-Idle-Box instance 10028: 0
+      Boss-Idle-Box instance 10029: 0
+      Boss-Idle-Box instance 10030: 0
+      Boss-Idle-Box instance 10031: 0
+      Boss-Idle-Box instance 10032: 0
+      Boss-Idle-Box instance 10033: 0
+      Boss-Idle_0: 3081140744875720371
+      Boss-Idle_1: -4305016069982473432
+      Boss-Idle_10: -754230139007683158
+      Boss-Idle_11: 4000655255727029430
+      Boss-Idle_12: 6864372150812472646
+      Boss-Idle_13: 3350257947792464617
+      Boss-Idle_14: -5144600703270143511
+      Boss-Idle_15: -2682061449040249121
+      Boss-Idle_16: -3210711886691843574
+      Boss-Idle_17: -5496506132485848975
+      Boss-Idle_18: 3589517090815933733
+      Boss-Idle_2: -4579623771877242826
+      Boss-Idle_3: 8754140421706184551
+      Boss-Idle_4: -3892591642495321686
+      Boss-Idle_5: 1905864929515483176
+      Boss-Idle_6: -8042344283210599407
+      Boss-Idle_7: -6122691678721675397
+      Boss-Idle_8: 4292833947421119928
+      Boss-Idle_9: -1209247564999153953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fundo bus_0: 929718279323682835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

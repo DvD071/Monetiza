@@ -16,10 +16,13 @@ public class PlayerAttack : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
 
+    public Animator animator;
+
     void Start()
     {
         // Obtém o SpriteRenderer do jogador para identificar a direção (flip)
         spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
 
         // Se você quiser usar vidaEnemy, ela deve ser obtida do inimigo atingido, e não do próprio jogador
         // vidaEnemy = GetComponent<VidaEnemy>();  // Removido, pois não é necessário
@@ -31,9 +34,10 @@ public class PlayerAttack : MonoBehaviour
         AtualizaPosicaoAttackPoint();
 
         // Ao pressionar a tecla Z, executa o ataque
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.Z) && !Movement.Jumping)
         {
             ExecutaAtaque();
+            animator.SetTrigger("Punch");
         }
     }
 

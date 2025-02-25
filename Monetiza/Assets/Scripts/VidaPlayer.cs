@@ -10,13 +10,15 @@ public class VidaPlayer : MonoBehaviour
 {
     [Header("Configurações de Vida")]
     public int maxHealth = 100;
-    public int currentHealth;
+    public float currentHealth;
 
     [Header("Interface de Vida")]
     [Tooltip("Slider que representa a vida do Player.")]
     public Slider healthSlider;
     public GameObject gameOver;
-   
+
+
+    float timer = 0;
 
     void Start()
     {
@@ -29,9 +31,25 @@ public class VidaPlayer : MonoBehaviour
         gameOver.SetActive(false);
     }
 
+    private void Update()
+    {
+        if (timer > 0)
+        {
+            timer -= Time.deltaTime;
+        }
+        if(timer <= 0 && currentHealth < maxHealth) 
+        {
+            currentHealth += 0.01f;
+        }
+        Debug.Log(timer + " " + currentHealth);
+        healthSlider.value = currentHealth;
+    }
+
     // Método para aplicar dano ao Player
     public void TakeDamage(int damage)
     {
+        timer = 10;
+        Movement.animator.SetTrigger("Hurt");
         currentHealth -= damage;
         Debug.Log("Player recebeu " + damage + " de dano. Vida atual: " + currentHealth);
 

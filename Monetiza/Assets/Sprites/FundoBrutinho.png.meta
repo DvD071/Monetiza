@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FundoBrutinho_0: -1318332283537967406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

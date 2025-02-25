@@ -13,6 +13,8 @@ public class VidaEnemy : MonoBehaviour
     [Tooltip("Slider que representa a vida do Inimigo (se houver).")]
     public Slider healthSlider;
 
+    Animator anime;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -21,11 +23,15 @@ public class VidaEnemy : MonoBehaviour
             healthSlider.maxValue = maxHealth;
             healthSlider.value = currentHealth;
         }
+        anime = GetComponent<Animator>();
     }
 
     // Método para aplicar dano ao inimigo
     public void TakeDamage(int damage)
     {
+
+        anime.SetTrigger("Hurt");
+
         currentHealth -= damage;
         Debug.Log("Inimigo recebeu " + damage + " de dano. Vida atual: " + currentHealth);
 

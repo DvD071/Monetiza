@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ethereum-1_0: 4819487066308755422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -29,14 +29,24 @@ public class NPC : MonoBehaviour
     [Header("Dano do inimigo")]
     public int danoEnemy=10;
 
+    float Xpos = 0f;
+    bool Moving = false;
+
+    Animator Anime;
+    SpriteRenderer rende;
+
     void Start()
     {
         startPosition = transform.position;
-        vidaPlayer = GetComponent<VidaPlayer>();    
+        vidaPlayer = GetComponent<VidaPlayer>();
+        Anime = GetComponent<Animator>();
+        rende = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
+        
+
         if (player == null)
             return;
 
@@ -47,6 +57,14 @@ public class NPC : MonoBehaviour
         {
             // Se detectado, persegue o Player e tenta atacar
             ChaseAndAttack();
+            if(player.position.x < transform.position.x) 
+            {
+                movingRight = false;
+            }
+            else 
+            {
+                movingRight = true;
+            }
         }
         else
         {
@@ -54,6 +72,25 @@ public class NPC : MonoBehaviour
             detectionTimer = 0f;
             Patrol();
         }
+        //checando se o npc ta movendo
+        if (Xpos != transform.position.x)
+        {
+            Moving = true;
+            Xpos = transform.position.x;
+        }
+        else
+        {
+            Moving = false;
+        }
+        if (movingRight)
+        {
+            rende.flipX = true;
+        }
+        else
+        {
+            rende.flipX = false;
+        }
+        Anime.SetBool("Walking", Moving);
     }
 
     void ChaseAndAttack()
@@ -113,6 +150,7 @@ public class NPC : MonoBehaviour
 
     void Attack()
     {
+        Anime.SetTrigger("Punch");
         Debug.Log("Inimigo ataca o jogador!");
 
         // Obtem o componente VidaPlayer do objeto do jogador

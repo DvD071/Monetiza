@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d427b39426e3e794f9fa22e845d4372e
+timeCreated: 1453316378
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53520
+  packageName: Flash Sprite Sheet Importer
+  packageVersion: 1.1.1
+  assetPath: Assets/SpriteSheetImporter/Editor/Readme.txt
+  uploadId: 360524

@@ -7,13 +7,12 @@ public class Movement : MonoBehaviour
 {
     public bool CantUp, CantDown, Ignore = false;
     
-    public static bool Jumping = false, CanMove = true, andando = false;
+    public static bool Jumping = false, CanMove = true, andando = false, Pulando = false;
     public float HMove, VMove, VVelo;
     public float SetYPos;
     public GameObject Shadown;
-    public Animator animator;
+    public static Animator animator;
     public SpriteRenderer spriteRenderer;
-
 
     void Start()
     {
@@ -33,9 +32,8 @@ public class Movement : MonoBehaviour
         }
 
         //salvo a altura q o pulo começou(SetYPos), e faço uma variavel que fica diminuindo como fosse a gravidade
-        if(Input.GetAxisRaw("Jump") > 0 && CanMove) 
+        if(Input.GetAxisRaw("Jump") > 0 && CanMove)
         {
-            animator.SetTrigger("Pulo");
             if (!Jumping)
             {
                 SetYPos = transform.position.y;
@@ -52,7 +50,24 @@ public class Movement : MonoBehaviour
 
         // Verifica se o personagem está se movendo em qualquer direção
         andando = (horizontal != 0f || vertical != 0f);
-        animator.SetBool("Andando", andando);
+        animator.SetBool("Walking", andando);
+
+        if(Jumping && VVelo > 0) 
+        {
+            animator.SetBool("Jumping", true);
+        }
+        else 
+        {
+            animator.SetBool("Jumping", false);
+        }
+        if(Jumping && VVelo < 0) 
+        {
+            animator.SetBool("Faling", true);
+        }
+        else 
+        {
+            animator.SetBool("Faling", false);
+        }
 
         // Flipa o sprite com base no movimento horizontal
         if (horizontal < 0)

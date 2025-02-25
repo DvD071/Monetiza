@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: ded43edcb1c40a948bd13b5c574c7888
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8368856878384372544
+    second: Bru-Idle_0
+  - first:
+      213: 5156364174576429119
+    second: Bru-Idle_1
+  - first:
+      213: -4732383314988932611
+    second: Bru-Idle_2
+  - first:
+      213: -7422171750747545983
+    second: Bru-Idle_3
+  - first:
+      213: 2635806197703856299
+    second: Bru-Idle_4
+  - first:
+      213: -2836431731208298313
+    second: Bru-Idle_5
+  - first:
+      213: -3494089181925935022
+    second: Bru-Idle_6
+  - first:
+      213: -1813030585428779098
+    second: Bru-Idle_7
+  - first:
+      213: 2208038695970181367
+    second: Bru-Idle_8
+  - first:
+      213: -3277367479105333124
+    second: Bru-Idle_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bru-Idle instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10007
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10008
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10009
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10010
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7062
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10013
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10014
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10015
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10016
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10017
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10018
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10019
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10020
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10021
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10022
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5932
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10023
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4802
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4802
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10025
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 4802
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10026
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 4802
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10027
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4802
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10028
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4802
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bru-Idle instance 10029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3672
+        width: 1250
+        height: 1130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bru-Idle instance 10000: 0
+      Bru-Idle instance 10001: 0
+      Bru-Idle instance 10002: 0
+      Bru-Idle instance 10003: 0
+      Bru-Idle instance 10004: 0
+      Bru-Idle instance 10005: 0
+      Bru-Idle instance 10006: 0
+      Bru-Idle instance 10007: 0
+      Bru-Idle instance 10008: 0
+      Bru-Idle instance 10009: 0
+      Bru-Idle instance 10010: 0
+      Bru-Idle instance 10011: 0
+      Bru-Idle instance 10012: 0
+      Bru-Idle instance 10013: 0
+      Bru-Idle instance 10014: 0
+      Bru-Idle instance 10015: 0
+      Bru-Idle instance 10016: 0
+      Bru-Idle instance 10017: 0
+      Bru-Idle instance 10018: 0
+      Bru-Idle instance 10019: 0
+      Bru-Idle instance 10020: 0
+      Bru-Idle instance 10021: 0
+      Bru-Idle instance 10022: 0
+      Bru-Idle instance 10023: 0
+      Bru-Idle instance 10024: 0
+      Bru-Idle instance 10025: 0
+      Bru-Idle instance 10026: 0
+      Bru-Idle instance 10027: 0
+      Bru-Idle instance 10028: 0
+      Bru-Idle instance 10029: 0
+      Bru-Idle_0: -8368856878384372544
+      Bru-Idle_1: 5156364174576429119
+      Bru-Idle_2: -4732383314988932611
+      Bru-Idle_3: -7422171750747545983
+      Bru-Idle_4: 2635806197703856299
+      Bru-Idle_5: -2836431731208298313
+      Bru-Idle_6: -3494089181925935022
+      Bru-Idle_7: -1813030585428779098
+      Bru-Idle_8: 2208038695970181367
+      Bru-Idle_9: -3277367479105333124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

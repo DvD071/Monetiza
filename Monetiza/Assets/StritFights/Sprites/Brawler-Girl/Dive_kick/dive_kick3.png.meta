@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dive_kick3_0: 8960469165942082774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

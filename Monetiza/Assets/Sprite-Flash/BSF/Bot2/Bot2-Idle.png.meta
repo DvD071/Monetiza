@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 6c8431cd6fc435f46a418f262dfd6835
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4247722294907752052
+    second: Bot2-Idle_0
+  - first:
+      213: -1211675735371620264
+    second: Bot2-Idle_1
+  - first:
+      213: 1119384495721497477
+    second: Bot2-Idle_2
+  - first:
+      213: 7714219638257030358
+    second: Bot2-Idle_3
+  - first:
+      213: 1584337423456594215
+    second: Bot2-Idle_4
+  - first:
+      213: -1526887815946774357
+    second: Bot2-Idle_5
+  - first:
+      213: 8443374458975423754
+    second: Bot2-Idle_6
+  - first:
+      213: 8317004180053680882
+    second: Bot2-Idle_7
+  - first:
+      213: -8598934397164136180
+    second: Bot2-Idle_8
+  - first:
+      213: -7039577487501216839
+    second: Bot2-Idle_9
+  - first:
+      213: 1816295307288951776
+    second: Bot2-Idle_10
+  - first:
+      213: 3454206147760765346
+    second: Bot2-Idle_11
+  - first:
+      213: 7689593297747209922
+    second: Bot2-Idle_12
+  - first:
+      213: 1208964877039615986
+    second: Bot2-Idle_13
+  - first:
+      213: 7668798709694308808
+    second: Bot2-Idle_14
+  - first:
+      213: -5065163112165672593
+    second: Bot2-Idle_15
+  - first:
+      213: -6362611447434395495
+    second: Bot2-Idle_16
+  - first:
+      213: -3905132961646575382
+    second: Bot2-Idle_17
+  - first:
+      213: 5141305836256808163
+    second: Bot2-Idle_18
+  - first:
+      213: -3903502937972018051
+    second: Bot2-Idle_19
+  - first:
+      213: -6096336036902174962
+    second: Bot2-Idle_20
+  - first:
+      213: -4578955776184378423
+    second: Bot2-Idle_21
+  - first:
+      213: -5363248267172639692
+    second: Bot2-Idle_22
+  - first:
+      213: -9073023166877716712
+    second: Bot2-Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bot2-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ecb7cfbe0f2fa30800000000000000
+      internalID: 4247722294907752052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850e632a6534f2fe0800000000000000
+      internalID: -1211675735371620264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834f82a44ad88f00800000000000000
+      internalID: 1119384495721497477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d417a9a3e96e0b60800000000000000
+      internalID: 7714219638257030358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729ec711e72bcf510800000000000000
+      internalID: 1584337423456594215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8de960f976fcae0800000000000000
+      internalID: -1526887815946774357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 3634
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d06d4e554ec2570800000000000000
+      internalID: 8443374458975423754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e9838c3feb6370800000000000000
+      internalID: 8317004180053680882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d42299b27aa880800000000000000
+      internalID: -8598934397164136180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b337a882956e4e90800000000000000
+      internalID: -7039577487501216839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebba2675f6c43910800000000000000
+      internalID: 1816295307288951776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93042b03ecfef20800000000000000
+      internalID: 3454206147760765346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce6273fc5ce6ba60800000000000000
+      internalID: 7689593297747209922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 2586
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffbed9762b17c010800000000000000
+      internalID: 1208964877039615986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ad41abcb0d6a60800000000000000
+      internalID: 7668798709694308808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69f3f16cfce4b9b0800000000000000
+      internalID: -5065163112165672593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c6df599673b7a0800000000000000
+      internalID: -6362611447434395495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0036cf24e2ec9c0800000000000000
+      internalID: -3905132961646575382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eccab31b66995740800000000000000
+      internalID: 5141305836256808163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74fb7272c8f3d9c0800000000000000
+      internalID: -3903502937972018051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_20
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 1538
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f78099ca6756ba0800000000000000
+      internalID: -6096336036902174962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9e4e5bf74470c0800000000000000
+      internalID: -4578955776184378423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 490
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c02f0ed1ae195b0800000000000000
+      internalID: -5363248267172639692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot2-Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 490
+        width: 1044
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2d5b2085261280800000000000000
+      internalID: -9073023166877716712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
