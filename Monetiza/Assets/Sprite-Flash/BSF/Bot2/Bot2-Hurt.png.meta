@@ -178,7 +178,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bot2-Hurt_0: 2089832720449965626
+      Bot2-Hurt_1: -1876705580597012192
+      Bot2-Hurt_2: 7134410174921828193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

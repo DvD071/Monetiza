@@ -346,7 +346,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bot2-Punch_0: -3961174591671292256
+      Bot2-Punch_1: -1111757793825500625
+      Bot2-Punch_2: 8748685090886654665
+      Bot2-Punch_3: -8964222015399035531
+      Bot2-Punch_4: -2824626535942069006
+      Bot2-Punch_5: 3403566581937057135
+      Bot2-Punch_6: 17474290644716961
+      Bot2-Punch_7: -6915161178463380906
+      Bot2-Punch_8: 5646642252204828159
+      Bot2-Punch_9: -7721051168792586849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

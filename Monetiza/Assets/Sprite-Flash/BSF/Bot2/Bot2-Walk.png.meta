@@ -298,7 +298,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bot2-Walk_0: 2453413562659345894
+      Bot2-Walk_1: 3908313192964747175
+      Bot2-Walk_2: -7273188210665356522
+      Bot2-Walk_3: -2017616109642469978
+      Bot2-Walk_4: 7645059763329470838
+      Bot2-Walk_5: 5327896050595316459
+      Bot2-Walk_6: -2785418196182311237
+      Bot2-Walk_7: -1403800622369100344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
