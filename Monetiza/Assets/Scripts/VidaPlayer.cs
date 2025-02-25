@@ -16,6 +16,7 @@ public class VidaPlayer : MonoBehaviour
     [Tooltip("Slider que representa a vida do Player.")]
     public Slider healthSlider;
     public GameObject gameOver;
+    public LayerMask Cura;
 
 
     float timer = 0;
@@ -43,6 +44,8 @@ public class VidaPlayer : MonoBehaviour
         }
         Debug.Log(timer + " " + currentHealth);
         healthSlider.value = currentHealth;
+       
+       
     }
 
     // Método para aplicar dano ao Player
@@ -74,6 +77,7 @@ public class VidaPlayer : MonoBehaviour
         {
             healthSlider.value = currentHealth;
         }
+       
         Debug.Log("Player curado em " + amount + ". Vida atual: " + currentHealth);
     }
 
@@ -92,5 +96,7 @@ public class VidaPlayer : MonoBehaviour
         SceneManager.LoadScene("Jogo");
         Time.timeScale = 1f;
     }
+   
+    
 
 }
