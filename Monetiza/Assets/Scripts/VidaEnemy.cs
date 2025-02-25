@@ -14,10 +14,16 @@ public class VidaEnemy : MonoBehaviour
     public Slider healthSlider;
 
     Animator anime;
+    public static bool Win = false;
 
     void Start()
     {
+        Win = false;
         currentHealth = maxHealth;
+        if (gameObject.name == "Boss")
+        {
+            currentHealth += 100;
+        }
         if (healthSlider != null)
         {
             healthSlider.maxValue = maxHealth;
@@ -49,6 +55,7 @@ public class VidaEnemy : MonoBehaviour
     // Método chamado quando o inimigo morre
     void Die()
     {
+        Win = true;
         Debug.Log("Inimigo morreu!");
         // Aqui você pode adicionar efeitos de morte, animações, etc.
         Destroy(gameObject);

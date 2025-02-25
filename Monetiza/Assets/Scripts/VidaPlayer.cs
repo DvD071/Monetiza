@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -40,7 +39,7 @@ public class VidaPlayer : MonoBehaviour
         }
         if(timer <= 0 && currentHealth < maxHealth) 
         {
-            currentHealth += 0.01f;
+            currentHealth += 0.075f;
         }
         Debug.Log(timer + " " + currentHealth);
         healthSlider.value = currentHealth;
